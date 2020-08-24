@@ -1,2 +1,0 @@
-# DemoCodespace
-Testing VS Codespaces
